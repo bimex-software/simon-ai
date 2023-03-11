@@ -1,0 +1,10 @@
+Version list may be found here
+
+version 1 release (release of the new simon AI)
+version 1.2 release (updated to more helpful)
+version 1.3 release (language issue fixed)
+version 1.4 release (More system inprovements)
+version 1.5 release (Now will be able to help with code)
+version 1.6 release (Release of web based version of Simon AI)
+
+contact creator: 2pendergraffsj@stu.bps-ok.org
